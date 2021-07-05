@@ -1,0 +1,42 @@
+.wlc-msg{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(143, 8, 8) cyan);
+    padding: 10px, 400px;
+    color: white;
+    font-weight: 700;
+    border-radius: 15px;
+    text-align: center;
+}
+.section{
+    margin: 20px 10%;
+    padding: 2%;
+    border: 2px solid yellow;
+    border-radius: 15px;
+    background-color: white;
+    width: auto;
+}
+body{
+    background-color: rgb(255, 191, 71);
+    font-family: 'Poppins', sans-serif;
+}
+.next-page{
+    color:blue;
+        }
+h3{
+    color:purple;
+    font-size: 20px;
+}
+.half-width{
+    display: flex;
+    width: 80%;
+    margin: 0;
+    padding: 2%;
+}
+.text-color{
+    color:blue;
+
+}
+
+}
+li{
+    text-align: initial;
